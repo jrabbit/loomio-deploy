@@ -1,0 +1,9 @@
+TODO:
+    * websockets DONE: 12/6
+    * better tls/ vpn
+    * fix emojo
+    * Make people admins?
+    * email deliverability/ spam
+    * nginx handle static files?
+    
+    
